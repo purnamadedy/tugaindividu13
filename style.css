@@ -1,0 +1,24 @@
+.jumbotron{
+    background-image: url(img/gedung.jpg);
+    margin-top: 5%;
+}
+.jumbotron h1{
+    text-align: center;
+    color: whitesmoke;
+}
+.jumbotron p{
+    text-align: center;
+    color: whitesmoke;
+}
+.jumbotron img{
+    margin-top: 3%;
+    padding-right: 10px;
+}
+#jumbotron h1{
+    text-align: center;
+}
+.card-footer{
+    background-color: tomato;
+}
+.card-footer h4{
+    margin-top: 10px;
